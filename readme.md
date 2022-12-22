@@ -37,7 +37,7 @@ import { Futures } from "binance-connector"
 ### Examples
 **Note: Everything is`Promised` so you need to do `.then` or `await`**
 
-[All Examples](https://github.com/ixjb94/binance-connector/tree/main/examples)
+[All Examples](https://github.com/ixjb94/binance-connector/tree/master/examples)
 
 - Rest (Public)
 
@@ -144,8 +144,8 @@ Run()
 
 
 ### Types & Intellisense
-![img1](https://raw.githubusercontent.com/ixjb94/binance-connector/main/images/img01.png "img1")
-![img2](https://raw.githubusercontent.com/ixjb94/binance-connector/main/images/img02.png "img2")
+![img1](https://raw.githubusercontent.com/ixjb94/binance-connector/master/images/img01.png "img1")
+![img2](https://raw.githubusercontent.com/ixjb94/binance-connector/master/images/img02.png "img2")
 
 ### Endpoints Naming
 | Starts        | Example            | Http Method   |
