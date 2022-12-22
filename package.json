@@ -1,0 +1,27 @@
+{
+  "name": "@ixjb94/binance-connector",
+  "version": "1.0.0",
+  "description": "binance connector is a SDK for binance that supports all endpoints including websocket",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixjb94/binance-connector.git"
+  },
+  "keywords": [
+    "binance",
+    "binance-sdk",
+    "exchange",
+    "websocket",
+    "binance-websocket"
+  ],
+  "author": "IX JB",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "ws": "^8.11.0"
+  }
+}
