@@ -27,7 +27,7 @@ you need to enable node ES6 `module`
 package.json -> `"type": "module"`
 
 ### Installation
-`npm install binance-connector`
+`npm i @ixjb94/binance-connector`
 
 ### Usage
 ```js
